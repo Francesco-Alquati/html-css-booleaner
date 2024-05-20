@@ -16,7 +16,7 @@ header{
     margin-left: 10px;
 }
 .container{
-    margin-left: 6px;
+    margin-left: 10px;
 }
 .firma{
     color: grey;
@@ -36,4 +36,7 @@ header{
 }
 .testo-evidenziato{
     background-color: yellow;
+}
+ul{
+    margin-left: 7px;
 }
