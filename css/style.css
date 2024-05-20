@@ -29,14 +29,29 @@ header{
     margin-bottom: 15px;
 }
 .foto-tim{
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 .paragrafi{
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 .testo-evidenziato{
     background-color: yellow;
 }
 ul{
     margin-left: 7px;
+    margin-bottom: 25px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.riga-testa-tabella{
+    background-color: rgb(26, 157, 239);
+    color:white;
+}
+.righe-celesti-tabella{
+    background-color: rgb(182, 247, 251);
+}
+.righe-bianche-tabella{
+    background-color: white;
 }
