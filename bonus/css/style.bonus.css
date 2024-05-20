@@ -13,10 +13,11 @@ header{
 #logo{
     width: 180px;
     height: 130px;
-    margin-left: 10px;
+    margin-left: 120px;
 }
 .container{
-    margin-left: 10px;
+     width: 1200px;
+     margin: 0 auto;
 }
 .firma{
     color: grey;
