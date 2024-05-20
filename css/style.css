@@ -44,7 +44,10 @@ ul{
 table{
     width: 100%;
     border-collapse: collapse;
+    margin-bottom: 25px;
+
 }
+
 .riga-testa-tabella{
     background-color: rgb(26, 157, 239);
     color:white;
