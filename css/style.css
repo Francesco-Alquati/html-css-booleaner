@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.background{
+header{
     background-color: rgb(76, 158, 252);
     height: 100px;
     background-image: url('../img/pattern.png');
@@ -26,4 +26,8 @@
 }
 #data{
     font-size: 11px;
+    margin-bottom: 15px;
+}
+.foto-tim{
+    margin-bottom: 20px;
 }
