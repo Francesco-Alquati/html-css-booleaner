@@ -9,11 +9,21 @@
     background-image: url('../img/pattern.png');
     background-size: contain;
     margin-bottom: 15px;
-
-    }
+}
 #logo{
     width: 180px;
     height: 130px;
     margin-left: 10px;
 }
-   
+.container{
+    margin-left: 6px;
+}
+.firma{
+    color: grey;
+}
+#autore{
+    color: rgb(48, 167, 241);
+}
+#data{
+    font-size: 11px;
+}
