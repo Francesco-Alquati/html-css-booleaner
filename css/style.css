@@ -31,6 +31,9 @@ header{
 .foto-tim{
     margin-bottom: 25px;
 }
+.figcaption{
+    font-size: 13px;
+}
 .paragrafi{
     margin-bottom: 25px;
 }
@@ -57,4 +60,29 @@ table{
 }
 .righe-bianche-tabella{
     background-color: white;
+}
+h4{
+    color: gray;
+    margin-bottom: 15px;
+}
+.monitor{
+    width: 210px;
+    height: 160px;
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    color: white;
+    margin-bottom: 15px;
+}
+.graph{
+    width: 210px;
+    height: 160px;
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    color: white;
+    margin-bottom: 35px;
+}
+.scritte-su-immagini{
+    display: block;
+    padding: 13px;
+    font-size: 17px;
 }
