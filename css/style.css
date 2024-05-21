@@ -3,21 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* background e logo  */
 header{
     background-color: rgb(76, 158, 252);
     height: 100px;
     background-image: url('../img/pattern.png');
-    background-size: contain;
+    background-size: 300px;
     margin-bottom: 15px;
 }
 #logo{
-    width: 180px;
-    height: 130px;
-    margin-left: 10px;
+    height: 100%;
+    padding: 40px 0px 15px 10px;
 }
+  /* contenitore */
 .container{
     margin-left: 10px;
 }
+/* firma dell'autore  */
 .firma{
     color: grey;
 }
@@ -28,30 +30,39 @@ header{
     font-size: 11px;
     margin-bottom: 15px;
 }
+/* foto di tim  */
 .foto-tim{
     margin-bottom: 25px;
 }
 .figcaption{
     font-size: 13px;
 }
+/* primo paragrafo evidenziato  */
 .paragrafi{
     margin-bottom: 25px;
 }
 .testo-evidenziato{
     background-color: yellow;
 }
+/* lista non ordinata  */
 ul{
     margin-left: 7px;
     margin-bottom: 25px;
 }
+/* tabella colorata  */
 table{
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 25px;
 
 }
-
-.riga-testa-tabella{
+th{
+    text-align: left;
+}
+.text{
+    width: 50%;
+}
+thead{
     background-color: rgb(26, 157, 239);
     color:white;
 }
@@ -61,6 +72,7 @@ table{
 .righe-bianche-tabella{
     background-color: white;
 }
+/* footer  */
 h4{
     color: gray;
     margin-bottom: 15px;
